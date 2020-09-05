@@ -1,5 +1,5 @@
 
-// DESAFIO - saudar clientes
+// DESAFIO - saudar clientes          
 
 // Escreva uma função chamada saudarCliente.
 // Essa função deve receber um nome, verificar se ele existe na base de clientes e retornar uma saudação com base 
