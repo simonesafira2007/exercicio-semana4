@@ -119,7 +119,7 @@ const baseClientes = {
   function recebeUmObjeto (){
     const arr =  pessoa = { nome: 'Nazaré', sobrenome: 'Tedesco'}
     return arr
-  
+      
   }
   
   console.log(recebeUmObjeto())
@@ -223,18 +223,19 @@ for(let i = 0; i < cartaoInvertido.length; i++) {
 
     if(valorMultiplicado > 9) {
       const valorSubtraido = valorMultiplicado - 9
-      arrayAuxiliar.push(valorSubtraido);
+      arrayAuxiliar.push(valorSubtraido)
         //return valorSubtraido;
     } else  {
-      arrayAuxiliar.push(valorMultiplicado);
+      arrayAuxiliar.push(valorMultiplicado)
     }
-    console.log('auxiliar', arrayAuxiliar);
+    console.log('auxiliar', arrayAuxiliar)
   } else {
-    arrayAuxiliar.push(cartaoInvertido[i]);
+    arrayAuxiliar.push(cartaoInvertido[i])
   }
   console.log('auxiliar',arrayAuxiliar)
-  return arrayAuxiliar;
+  return arrayAuxiliar
 }
 
   
 
+  

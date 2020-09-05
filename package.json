@@ -1,0 +1,23 @@
+{
+  "name": "exercicio-semana4",
+  "version": "1.0.0",
+  "description": "",
+  "main": "respostas_s4.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/simonesafira2007/exercicio-semana4.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/simonesafira2007/exercicio-semana4/issues"
+  },
+  "homepage": "https://github.com/simonesafira2007/exercicio-semana4#readme",
+  "dependencies": {
+    "readline-sync": "^1.4.10"
+  }
+}
