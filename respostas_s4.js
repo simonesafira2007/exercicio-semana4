@@ -5,7 +5,7 @@
 // Essa função deve receber um nome, verificar se ele existe na base de clientes e retornar uma saudação com base 
 // em quantas vezes a cliente visitou um estabelecimento. 
 // Consulte o objeto baseClientes abaixo. A saudação deve ser diferente, dependendo do nome da reserva.
-
+  
 // Caso 1 - Cliente desconhecida (o nome não está presente no objeto baseClientes)
 // console.log(saudarCliente('Chiquinha')) // --> 'Olá, é a primeira vez por aqui?'
 
