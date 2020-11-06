@@ -7,3 +7,10 @@ const number = input.question("Digite um numero para o valor final do loop : ")
 for (let i = 1; i <= number; i++){
     console.log(i)
 }
+
+/*
+Digite um numero para o valor final do loop : 3
+1
+2
+3
+*/
