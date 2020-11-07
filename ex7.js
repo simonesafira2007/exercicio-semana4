@@ -4,20 +4,10 @@ Escreva um algoritmo para ler 2 valores, calcular e escrever a média aritmétic
 valores.
 */
 
-for (let i = 10; i >= 1 ; i--){
-    console.log(i)
-    
-}
+numero1 = 6
+numero2 = 10
+soma = numero1 + numero2
+media = soma/2
 
-/*
-10
-9
-8
-7
-6
-5
-4
-3
-2
-1
-*/
+console.log("A media aritmetica dos dois numeros e :", media)
+
