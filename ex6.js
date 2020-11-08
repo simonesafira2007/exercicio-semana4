@@ -25,4 +25,12 @@ Informe um numero ente 1 a 10 : 5
 5 X 8  =  40
 5 X 9  =  45
 5 X 10  =  50
+
+Resposta caso usuário entre com número 0:
+
+Informe um numero ente 1 a 10 : 0
+     === Opcao inválida ====
+ === Só aceita número de 1 a 10 ===
+
+
 */
